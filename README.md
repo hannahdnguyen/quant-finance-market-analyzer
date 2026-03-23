@@ -40,3 +40,15 @@ S&P 500 Index (SPY)
 - Monte Carlo portfolio simulations
 - efficient frontier optimization
 - risk metrics (Value at Risk)
+
+## Quantitative Finance Features
+
+This project applies quantitative finance techniques used in professional portfolio management.
+
+Methods implemented:
+
+Monte Carlo portfolio simulation  
+Efficient frontier visualization  
+Risk-adjusted return (Sharpe ratio)  
+Portfolio volatility modeling  
+Covariance-based risk analysis
